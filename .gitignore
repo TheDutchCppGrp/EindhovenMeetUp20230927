@@ -1,0 +1,7 @@
+CLion projet files
+.idea/
+
+CMake build directories
+cmake-build-debug-docker-aws-sdk-cpp-opencv-480/
+cmake-build-release-docker-aws-sdk-cpp-opencv-480
+ 
